@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project4</string>
+    <string name="download_image">Download image</string>
+    <string name="toast">Toast</string>
+</resources>
